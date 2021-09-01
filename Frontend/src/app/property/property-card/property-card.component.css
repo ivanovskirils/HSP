@@ -1,0 +1,11 @@
+.propImg{
+  height: 250px;
+  width: 270px;
+  align-self: center;
+}
+.card{
+  margin: 5px;
+}
+.card-body{
+  align-self: center;
+}
